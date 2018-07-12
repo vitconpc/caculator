@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">CaculatorDemo</string>
+    <string name="enter_first_number">Nhập số thứ nhất</string>
+    <string name="enter_second_number">Nhập số thứ hai</string>
+    <string name="result">Kết quả</string>
+    <string name="division">Chia</string>
+    <string name="multiplication">Nhân</string>
+    <string name="subtraction">Trừ</string>
+    <string name="addition">Cộng</string>
+    <string name="result_0">0</string>
 </resources>
